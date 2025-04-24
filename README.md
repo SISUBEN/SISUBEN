@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm SISUBENY</h1>
 <h3 align="center">A passionate frontend developer from 🇭🇰</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sisuben&label=Profile%20views&color=0e75b6&style=flat" alt="sisuben" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sisuben" alt="sisuben" /></a> </p>
 
-- 🔭 I’m currently working on [FairySearch](https://github.com/SISUBEN/FairySearch)
+<p><img src="https://komarev.com/ghpvc/?username=sisuben&label=Profile%20views&color=0e75b6&style=flat" alt="sisuben" /></p>
+<p><a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a></p>
+- 🔭 I’m currently working on FairySearch
 
 - 🌱 I’m currently learning **CyberSec**
 
 - 📫 How to reach me **SISUBENY@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sisuben" alt="sisuben" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sisuben&show_icons=true&locale=en" alt="sisuben" /></p>
+<div align="left">
+  <picture style="display:inline-block">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SISUBEN&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SISUBEN&theme=light&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SISUBEN&theme=default&hide_border=true" />
+  </picture>  
+  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=sisuben&show_icons=true&locale=en" alt="sisuben" />
+</div>
