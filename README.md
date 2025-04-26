@@ -9,7 +9,10 @@
 
 - 🌱 I’m currently learning **CyberSec**
 
-- 📫 How to reach me **SISUBENY@gmail.com**
+- 📫 How to reach me <admin@sisubeny.space>
+
+- ⏰ My personal [blog](https://www.sisubeny.space)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sisuben" alt="sisuben" /></a> </p>
 
