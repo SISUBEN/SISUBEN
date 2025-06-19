@@ -4,7 +4,7 @@
 
 
 <p><img src="https://komarev.com/ghpvc/?username=sisuben&label=Profile%20views&color=0e75b6&style=flat" alt="sisuben" /></p>
-<p><a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a></p>
+
 - 🔭 I’m currently working on FairySearch
 
 - 🌱 I’m currently learning **CyberSec**
