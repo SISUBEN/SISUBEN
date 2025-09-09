@@ -18,9 +18,6 @@ CTF Player: Actively participating in Jeopardy-style CTF competitions, with a fo
 *"Shift left, exploit right."*
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sisuben" alt="sisuben" /></a> </p>
-
-
 <div align="left">
   <picture style="display:inline-block">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SISUBEN&theme=dark&hide_border=true" />
