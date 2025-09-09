@@ -11,9 +11,9 @@ I am a software developer with a deep-rooted passion for cybersecurity and low-l
 
 CTF Player: Actively participating in Jeopardy-style CTF competitions, with a focus on Reverse Engineering and Binary Exploitation.
 
-## Development: Strong background in Python, C/C++, and Assembly. Enjoy building tools, and contributing to open-source projects.
+> Development: Strong background in Python, C/C++, and Assembly. Enjoy building tools, and contributing to open-source projects.
 
-## Security Research: Fascinated by vulnerability analysis, malware research, and developing defensive solutions.
+> Security Research: Fascinated by vulnerability analysis, malware research, and developing defensive solutions.
 
 *"Shift left, exploit right."*
 
