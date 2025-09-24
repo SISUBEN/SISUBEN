@@ -15,7 +15,6 @@ CTF Player: Actively participating in Jeopardy-style CTF competitions, with a fo
 
 > Security Research: Fascinated by vulnerability analysis, malware research, and developing defensive solutions.
 
-*"Shift left, exploit right."*
 
 
 <div align="left">
