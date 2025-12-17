@@ -1,18 +1,20 @@
 <div align="center">
-
+<h1>Hello, World!</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+SISUBENY;A+Passionate+CTF+Player;Reverse+Engineer+%26+Pwner;Based+in+Hong+Kong+🇭🇰" alt="Typing SVG" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=sisuben&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sisuben" />
   </p>
 
-  <samp>
-    Creating tools, breaking binaries, and exploring the depths of low-level systems.
-  </samp>
+<div align="center">
+  <a href="https://github.com/readme-typing-svg/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hello,+World!;你好，世界;哈囉，世界;こんにちは、世界;Bonjour+le+monde;SGVsbG8gV29ybGQh+(Base64);0x48656C6C6F+(Hex);Привет,+мир;안녕하세요,+세계" alt="Multilingual Hello World Typewriter" />
+  </a>
+</div>
   
   <br/><br/>
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:admin@sisubeny.space">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/sisuben">
@@ -68,5 +70,5 @@
 ---
 
 <div align="center">
-  <sub><i>"Talk is cheap. Show me the code."</i></sub>
+  <sub><i>`sudo su sisubeny`</i></sub>
 </div>
