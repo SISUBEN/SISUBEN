@@ -1,27 +1,72 @@
-<h1 align="center">Hi 👋, I'm SISUBENY</h1>
-<h3 align="center">A passionate developer from 🇭🇰</h3>
+<div align="center">
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+SISUBENY;A+Passionate+CTF+Player;Reverse+Engineer+%26+Pwner;Based+in+Hong+Kong+🇭🇰" alt="Typing SVG" />
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sisuben&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sisuben" />
+  </p>
 
-<p><img src="https://komarev.com/ghpvc/?username=sisuben&label=Profile%20views&color=0e75b6&style=flat" alt="sisuben" /></p>
+  <samp>
+    Creating tools, breaking binaries, and exploring the depths of low-level systems.
+  </samp>
+  
+  <br/><br/>
 
-I am a software developer with a deep-rooted passion for cybersecurity and low-level programming. My journey is defined by the thrill of solving complex challenges and continuously learning in the ever-evolving world of technology.
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sisuben">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-## 🔧 Core Interests & Skills:
+</div>
 
-CTF Player: Actively participating in Jeopardy-style CTF competitions, with a focus on Reverse Engineering and Binary Exploitation.
+---
 
-> Development: Strong background in Python, C/C++, and Assembly. Enjoy building tools, and contributing to open-source projects.
+### 🛠️ Arsenal & Skills
 
-> Security Research: Fascinated by vulnerability analysis, malware research, and developing defensive solutions.
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>💻 Core Languages</b>
+    </td>
+    <td align="center" width="50%">
+      <b>🛡️ CTF & Security</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Assembly-A8B9CC?style=flat-square&logo=intel&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Reverse_Engineering-FLAT?style=flat-square&color=critical" />
+      <img src="https://img.shields.io/badge/Binary_Exploitation-FLAT?style=flat-square&color=red" />
+      <img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square&logo=ghidra&logoColor=red" />
+      <img src="https://img.shields.io/badge/GDB-Source-yellow?style=flat-square" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
+<br/>
 
+### 📊 GitHub Stats
 
-<div align="left">
-  <picture style="display:inline-block">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SISUBEN&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SISUBEN&theme=light&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SISUBEN&theme=default&hide_border=true" />
-  </picture>  
-  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=sisuben&show_icons=true&locale=en" alt="sisuben" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sisuben&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SISUBEN&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisuben&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<div align="center">
+  <sub><i>"Talk is cheap. Show me the code."</i></sub>
 </div>
